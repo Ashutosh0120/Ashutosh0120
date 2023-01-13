@@ -23,4 +23,4 @@
 <!-- https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api -->
 <p><img align="left" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ashutosh0120&show_icons=true&locale=en&layout=compact" alt="ashutosh0120" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ashutosh0120&show_icons=true&locale=en" alt="ashutosh0120" /></p>
+<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ashutosh0120&show_icons=true&locale=en" alt="ashutosh0120" /></p> -->
