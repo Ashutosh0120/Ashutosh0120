@@ -25,7 +25,7 @@
  -->
 <!-- <p>&nbsp;<img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ashutosh0120&show_icons=true&locale=en" alt="ashutosh0120" /></p> -->
 # 💫 About Me:
-• Ex Python Developer Intern @𝐇𝐂𝐋 𝐓𝐞𝐜𝐡𝐧𝐨𝐥𝐨𝐠𝐢𝐞𝐬<br>• 𝐌𝐞𝐭𝐚 Hackercup'22 : Global Rank 2817<br>• 𝐆𝐨𝐨𝐠𝐥𝐞 Code Jam Farewell Round : Global Rank 1893<br>• 𝐆𝐨𝐨𝐠𝐥𝐞 Kickstart'22 : Global Rank 2473<br>• 𝐂𝐨𝐝𝐞𝐜𝐡𝐞𝐟 : 3 star | Max rating (1685)<br>• 𝐂𝐨𝐝𝐞𝐟𝐨𝐫𝐜𝐞𝐬 : Specialist | Max rating: (1408) <br>• 𝐋𝐞𝐞𝐭𝐜𝐨𝐝𝐞 : 3 star (Max 1767 | Top 8.59%) <br>• 𝐂onnect With Me: <a href="https://www.linkedin.com/in/ashutosh-kumar-singh-03975a18b/">Ashutosh Kumar Singh</a>
+• Ex Python Developer Intern @𝐇𝐂𝐋 𝐓𝐞𝐜𝐡𝐧𝐨𝐥𝐨𝐠𝐢𝐞𝐬<br>• 𝐌𝐞𝐭𝐚 Hackercup'22 : Global Rank 2817<br>• 𝐆𝐨𝐨𝐠𝐥𝐞 Code Jam Farewell Round : Global Rank 1893<br>• 𝐆𝐨𝐨𝐠𝐥𝐞 Kickstart'22 : Global Rank 2473<br>• 𝐂𝐨𝐝𝐞𝐜𝐡𝐞𝐟 : 3 star | Max rating (1685)<br>• 𝐂𝐨𝐝𝐞𝐟𝐨𝐫𝐜𝐞𝐬 : Specialist | Max rating: (1408) <br>• 𝐋𝐞𝐞𝐭𝐜𝐨𝐝𝐞 : 3 star (Max 1767 | Top 8.59%) <br>• 📫 Connect with me: <a href="https://www.linkedin.com/in/ashutosh-kumar-singh-03975a18b/">Ashutosh Kumar Singh</a>
 
 # 💻 Open Source 
 • 𝐇𝐚𝐜𝐤𝐭𝐨𝐛𝐞𝐫𝐟𝐞𝐬𝐭'22 : Selected as an Open Source Contributor [Total PR's Merged: 4]<br>• 𝐆𝐒𝐒𝐎𝐂'23 : Selected as an Open Source Contributor <br>
