@@ -30,6 +30,12 @@
 # 💻 Open Source 
 • 𝐇𝐚𝐜𝐤𝐭𝐨𝐛𝐞𝐫𝐟𝐞𝐬𝐭'22 : Selected as an Open Source Contributor [Total PR's Merged: 4]<br>• 𝐆𝐒𝐒𝐎𝐂'23 : Selected as an Open Source Contributor <br>
 
+# 💫 Education:
+| B Tech (CSE AIML) | <img src="https://www.glbajajgroup.org/img/about-us/new-logo-glbajaj.webp" width="30" height="30"/> | GL Bajaj Instituite of Technology and Management, Greater Noida| 8.7 CGPA | Dec'20 - Current |
+| 10+2 (PCM+CS) | <img src=" !(https://github.com/Ashutosh0120/Ashutosh0120/assets/24804042/7e2da602-dd77-4895-9cdc-c73e234f41f1)" width="30" height="30"/> | Ursuline Convent Sr. Sec. School | 90.2% | 2019 - 2020     |
+
+
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ashutosh-kumar-singh-03975a18b/) 
 
