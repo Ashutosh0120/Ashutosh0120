@@ -10,7 +10,7 @@
 # 💻 Open Source 
 • 𝐇𝐚𝐜𝐤𝐭𝐨𝐛𝐞𝐫𝐟𝐞𝐬𝐭'22 : Selected as an Open Source Contributor [Total PR's Merged: 4]<br>• 𝐆𝐒𝐒𝐎𝐂'23 : Selected as an Open Source Contributor <br>
 
-# 💫 Education:
+# 📚 Education:
 | | |  || | 
 |-----------|-----------|-----------|-----------|-----------|
 | B Tech (CSE AIML) | <img src="https://www.glbajajgroup.org/img/about-us/new-logo-glbajaj.webp" width="30" height="30"/> | GL Bajaj Institute of Technology and Management, Greater Noida| 8.7 CGPA | Dec'20 - Current |
