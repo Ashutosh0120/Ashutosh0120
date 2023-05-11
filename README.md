@@ -13,7 +13,7 @@
 | | |  || | 
 |-----------|-----------|-----------|-----------|-----------|
 | B Tech (CSE AIML) | <img src="https://www.glbajajgroup.org/img/about-us/new-logo-glbajaj.webp" width="30" height="30"/> | GL Bajaj Institute of Technology and Management, Greater Noida| 8.7 CGPA | Dec'20 - Current |
-| 10+2 (PCM+CS) | <img src=" [!(https://github.com/Ashutosh0120/Ashutosh0120/assets/24804042/7e2da602-dd77-4895-9cdc-c73e234f41f1)](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.edustoke.com%2Fnoida%2Fursuline-convent-sr-secondary-school-rho-i&psig=AOvVaw1k4u_g-iPBXzVWcIN3xuXi&ust=1683921064047000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCKjVvviE7v4CFQAAAAAdAAAAABAE)" width="30" height="30"/> | Ursuline Convent Sr. Sec. School, Greater Noida | 90.2% | 2019 - 2020     |
+| 10+2 (PCM+CS) | <img src="https://www.edustoke.com/noida/ursuline-convent-sr-secondary-school-rho-i#lg=1&slide=1" width="30" height="30"/> | Ursuline Convent Sr. Sec. School, Greater Noida | 90.2% | 2019 - 2020     |
 
 <br>
  
