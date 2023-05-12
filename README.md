@@ -14,6 +14,13 @@
 | B Tech (CSE AIML) | GL Bajaj Institute of Technology and Management, Greater Noida| 8.7 CGPA | Dec'20 - Current |
 | 10+2 (PCM+CS) | Ursuline Convent Sr. Sec. School, Greater Noida | 90.2% | 2019 - 2020 | 
 
+# 💡 Projects:  
+| ||  | 
+|-------|---------------|
+| Vehicle Insurance System | Created this project during HCL internship | 
+| Realtime Sign Language Detection System | Project developed for Realtime Face and Sign Matching |<a href="[https://www.linkedin.com/in/ashutosh-kumar-singh-03975a18b](https://github.com/Ashutosh0120/Realtime-Sign-Language-System)/">Link</a> |
+
+
 # 💻 Tech Stack: 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 
