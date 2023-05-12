@@ -15,8 +15,8 @@
 | 10+2 (PCM+CS) | Ursuline Convent Sr. Sec. School, Greater Noida | 90.2% | 2019 - 2020 | 
 
 # 💡 Projects:  
-| ||  | 
-|-------|---------------|
+| | |
+|-----------|-----------|
 | Vehicle Insurance System | Created this project during HCL internship | 
 | Realtime Sign Language Detection System | Project developed for Realtime Face and Sign Matching |<a href="[https://www.linkedin.com/in/ashutosh-kumar-singh-03975a18b](https://github.com/Ashutosh0120/Realtime-Sign-Language-System)/">Link</a> |
 
