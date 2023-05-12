@@ -4,14 +4,21 @@
 # 🌐 Socials: 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ashutosh-kumar-singh-03975a18b/) 
 
-# 🐱 Open Source 
-• 𝐇𝐚𝐜𝐤𝐭𝐨𝐛𝐞𝐫𝐟𝐞𝐬𝐭'22 : Selected as an Open Source Contributor [Total PR's Merged: 4]<br>• 𝐆𝐒𝐒𝐎𝐂'23 : Selected as an Open Source Contributor 
+# 💻 Work Experience:  
+|<h3>Organization</h3>|<h3>Position</h3>|<h3>Skills</h3> | <h3>Type</h3> | <h3>TimeLine</h3> |
+|-----------|-----------|-----------|-----------|-----------|-----------|
+|HCL Technologies|Python Developer Intern|```HTML``` ```CSS``` ```JS```<br>```Python``` ```Django``` ```Sqlite``` | Internship | Sept'22 - Dec'22|
 
 # 📚 Education:  
 | | || | 
 |-----------|------------------|-----------|-----------|
 | B Tech (CSE AIML) | GL Bajaj Institute of Technology and Management, Greater Noida| 8.7 CGPA | Dec'20 - Current |
 | 10+2 (PCM+CS) | Ursuline Convent Sr. Sec. School, Greater Noida | 90.2% | 2019 - 2020 | 
+
+
+# 🐱 Open Source 
+• 𝐇𝐚𝐜𝐤𝐭𝐨𝐛𝐞𝐫𝐟𝐞𝐬𝐭'22 : Selected as an Open Source Contributor [Total PR's Merged: 4]<br>• 𝐆𝐒𝐒𝐎𝐂'23 : Selected as an Open Source Contributor 
+
 
 # 💡 Projects:  
 | | |
