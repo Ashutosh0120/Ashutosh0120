@@ -3,7 +3,7 @@
 • Ex Python Developer Intern @𝐇𝐂𝐋 𝐓𝐞𝐜𝐡𝐧𝐨𝐥𝐨𝐠𝐢𝐞𝐬<br>• 𝐌𝐞𝐭𝐚 Hackercup'22 : Global Rank 2817<br>• 𝐆𝐨𝐨𝐠𝐥𝐞 Code Jam Farewell Round : Global Rank 1893<br>• 𝐆𝐨𝐨𝐠𝐥𝐞 Kickstart'22 : Global Rank 2473<br>• 𝐂𝐨𝐝𝐞𝐜𝐡𝐞𝐟 : 3 star | Max rating (1685)<br>• 𝐂𝐨𝐝𝐞𝐟𝐨𝐫𝐜𝐞𝐬 : Specialist | Max rating: (1408) <br>• 𝐋𝐞𝐞𝐭𝐜𝐨𝐝𝐞 : 3 star (Max 1767 | Top 8.59%) <br>• 📫 Connect with me: <a href="https://www.linkedin.com/in/ashutosh-kumar-singh-03975a18b/">Ashutosh Kumar Singh</a> <br> • ▶ My Resume:<a href="https://drive.google.com/file/d/1xQdWJB9N5f_Q1FqUqRwHJ3pC67aTWteP/view?usp=sharing/"> Click </a> <br>
 
 # 💻 Work Experience:  
-|<h3>Organization</h3>|<h3>Position</h3>|<h3>Skills</h3>|<h3>Type</h3>|<h3>Timeline</h3>|
+|Organization|Position|Skills|Type|Timeline|
 |-----------|----------|-----------|-----------|-----------|
 |HCL Technologies|Python Developer Intern|```HTML``` ```CSS``` ```JS``` ```Python```<br> ```Django``` ```Sqlite``` | Internship | Sept'22 - Dec'22|
 |Hacktoberfest'22|Open Source Contributor|```HTML``` ```CSS``` ```JS``` ```Python```| Part-time | Oct'22 (1 month)|
