@@ -1,4 +1,4 @@
-<center><h2 align="center">Hi 👋, I'm Ashutosh Kumar Singh</h2><center> 
+<center><h1 align="center">Hi 👋, I'm Ashutosh Kumar Singh</h1><center> 
 <br>
  
 # 💫 About Me: 
