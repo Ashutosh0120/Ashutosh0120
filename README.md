@@ -26,7 +26,7 @@
 |Project Name|Description|Technologies|
 |-----------|-----------|-----------|
 | Vehicle Insurance System | Created this project during HCL internship | ```HTML``` ```CSS``` ```JS``` ```Python```<br>```Django``` ```Sqlite``` |
-| <a href="https://github.com/Ashutosh0120/Realtime-Sign-Language-System"></a> Realtime Sign Language Detection System | Project developed for Realtime Face and Sign Matching |```HTML``` ```CSS``` ```JS``` ```Python```|
+| <a href="https://github.com/Ashutosh0120/Realtime-Sign-Language-System"> Realtime Sign Language Detection System </a>| Project developed for Realtime Face and Sign Matching |```HTML``` ```CSS``` ```JS``` ```Python```|
 
 
 # 💻 Tech Stack: 
