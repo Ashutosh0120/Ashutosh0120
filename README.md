@@ -26,7 +26,7 @@
 |Project Name|Description|Technologies|
 |-----------|-----------|-----------|
 | Vehicle Insurance System | Created this project during HCL internship | ```HTML``` ```CSS``` ```JS``` ```Python```<br>```Django``` ```Sqlite``` |
-| <a href="https://github.com/Ashutosh0120/Realtime-Sign-Language-System"> Realtime Sign Language Detection System </a>| Project developed for Realtime Face and Sign Matching |```Tensorflow``` ```Python``` ```OpenCV```<br> ```LSTM DL Model```|
+| <a href="https://github.com/Ashutosh0120/Realtime-Sign-Language-System"> Realtime Sign Language Detection </a>| Project developed for Realtime Face and Sign Matching |```Tensorflow``` ```Python``` ```OpenCV```<br> ```LSTM DL Model```|
 | <a href="https://csb-nbvvnt.netlify.app/"> Disney+ Hotstar Clone </a>| Created a Disney+ Hotstar clone website |```HTML``` ```CSS``` ```JS```|
 
 
