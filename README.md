@@ -7,7 +7,7 @@
 # 💻 Work Experience:  
 |<h3>Organization</h3>|<h3>Position</h3>|<h3>Skills</h3>|<h3>Type</h3>|<h3>Timeline</h3>|
 |-----------|----------|-----------|-----------|-----------|
-|HCL Technologies|Python Developer Intern|```HTML``` ```CSS```<br> ```JS``` ```Python```<br> ```Django``` ```Sqlite``` | Internship | Sept'22 - Dec'22|
+|HCL Technologies|Python Developer Intern|```HTML``` ```CSS``` ```JS``` ```Python```<br> ```Django``` ```Sqlite``` | Internship | Sept'22 - Dec'22|
 |Hacktoberfest'22|Open Source Contributor|```HTML``` ```CSS``` ```JS``` ```Python```| Part-time | Oct'22 (1 month)|
 
 # 📚 Education:  
