@@ -10,7 +10,7 @@
 
 # 📚 Education:  
 | | || | 
-|-----------|-----------|-----------|-----------|-----------|
+|-----------|------------------|-----------|-----------|
 | B Tech (CSE AIML) | GL Bajaj Institute of Technology and Management, Greater Noida| 8.7 CGPA | Dec'20 - Current |
 | 10+2 (PCM+CS) | Ursuline Convent Sr. Sec. School, Greater Noida | 90.2% | 2019 - 2020 | 
 
