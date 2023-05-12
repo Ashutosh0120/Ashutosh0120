@@ -5,9 +5,9 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ashutosh-kumar-singh-03975a18b/) 
 
 # 💻 Work Experience:  
-|<h3>Organization</h3>|<h3>Position</h3>|<h3>Skills</h3> | <h3>Type</h3> | <h3>TimeLine</h3> |
+|<h3>Organization</h3>|<h3>Position</h3>|<h3>Skills</h3>|<h3>Type</h3>|<h3>TimeLine</h3> |
 |-----------|-----------|-----------|-----------|-----------|-----------|
-|HCL Technologies|Python Developer Intern|```HTML``` ```CSS``` ```JS```<br>```Python``` ```Django``` ```Sqlite``` | Internship | Sept'22 - Dec'22|
+|HCL Technologies|Python Developer Intern|```HTML``` ```CSS```<br> ```JS``````Python```<br> ```Django``` ```Sqlite``` | Internship | Sept'22 - Dec'22|
 
 # 📚 Education:  
 | | || | 
