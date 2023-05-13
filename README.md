@@ -20,10 +20,9 @@
 
 # 🐱 Open Source:
 |Events|Position|Duration|   |
-|------|--------|--------|   |
+|------|--------|--------|-----|
 |𝐇𝐚𝐜𝐤𝐭𝐨𝐛𝐞𝐫𝐟𝐞𝐬𝐭'22|Selected as an Open Source Contributor <br> [Total PR's Merged: 4]|Oct'22|<a href="https://www.holopin.io/@ashu012002#/"> Click </a>|
 |𝐆𝐒𝐒𝐎𝐂'23|Selected as an Open Source Contributor|May'23-Present|<a href="https://drive.google.com/file/d/1GTeC2qUQLdpddzB4vnHk1LtN9ZLl8flf/view?usp=sharing"> Click </a>|
-
 
 # 💡 Projects:  
 |Project Name|Description|Technologies|
