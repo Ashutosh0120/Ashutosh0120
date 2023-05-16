@@ -28,7 +28,7 @@
 |Project Name|Description|Technologies|Live Link|
 |-----------|-----------|-----------|----|
 | Vehicle Insurance System | Created this project during HCL internship | ```HTML``` ```CSS``` ```JS``` ```Python```<br>```Django``` ```Sqlite``` ||
-| <a href="https://github.com/Ashutosh0120/Ai-Article-Summarizer"> Open AI Article Summarizer </a>| Created a website which can summarize <br> articles using Open AI GPT 4 |```HTML``` ```Tailwind Css``` <br> ```JS``` ```React Js```|<a href="https://646367f71b6039008e5dac2f--charming-twilight-568338.netlify.app/"> Click </a>|
+| <a href="https://github.com/Ashutosh0120/Ai-Article-Summarizer"> Open AI Article Summarizer </a>| Created a webapp which can summarize <br> articles using Open AI GPT 4 |```HTML``` ```Tailwind Css``` <br> ```JS``` ```React Js```|<a href="https://646367f71b6039008e5dac2f--charming-twilight-568338.netlify.app/"> Click </a>|
 | <a href="https://github.com/Ashutosh0120/Realtime-Sign-Language-System"> Realtime Sign Language Detection </a>| Project developed for Realtime <br> Face and Sign Matching |```Tensorflow``` ```Python``` <br> ```OpenCV``` ```LSTM DL Model```||
 | <a href="https://github.com/Ashutosh0120/HostarClone"> Disney+ Hotstar Clone </a>| Created a Disney+ Hotstar clone website |```HTML``` ```CSS``` ```JS```|<a href="https://csb-nbvvnt.netlify.app/"> Click </a>|
 
