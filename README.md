@@ -25,11 +25,12 @@
 |𝐆𝐒𝐒𝐎𝐂'23|Selected as an Open Source Contributor|May'23-Present|<a href="https://drive.google.com/file/d/1GTeC2qUQLdpddzB4vnHk1LtN9ZLl8flf/view?usp=sharing"> Click </a>|
 
 # 💡 Projects:  
-|Project Name|Description|Technologies|
-|-----------|-----------|-----------|
-| Vehicle Insurance System | Created this project during HCL internship | ```HTML``` ```CSS``` ```JS``` ```Python```<br>```Django``` ```Sqlite``` |
-| <a href="https://github.com/Ashutosh0120/Realtime-Sign-Language-System"> Realtime Sign Language Detection </a>| Project developed for Realtime Face and Sign Matching |```Tensorflow``` ```Python``` ```OpenCV```<br> ```LSTM DL Model```|
-| <a href="https://csb-nbvvnt.netlify.app/"> Disney+ Hotstar Clone </a>| Created a Disney+ Hotstar clone website |```HTML``` ```CSS``` ```JS```|
+|Project Name|Description|Technologies|Live Link|
+|-----------|-----------|-----------|------|
+| Vehicle Insurance System | Created this project during HCL internship | ```HTML``` ```CSS``` ```JS``` ```Python```<br>```Django``` ```Sqlite``` ||
+| <a href="https://646367f71b6039008e5dac2f--charming-twilight-568338.netlify.app/"> OPENAI Article Summarizer </a>| Created a website which can summarize articles using OPENAI GPT 4 |```HTML``` ```Tailwind Css``` ```JS``` ```React Js```|<a href="https://csb-nbvvnt.netlify.app/"> Click </a>|
+| <a href="https://github.com/Ashutosh0120/Realtime-Sign-Language-System"> Realtime Sign Language Detection </a>| Project developed for Realtime Face and Sign Matching |```Tensorflow``` ```Python``` ```OpenCV```<br> ```LSTM DL Model```||
+| <a href="https://csb-nbvvnt.netlify.app/"> Disney+ Hotstar Clone </a>| Created a Disney+ Hotstar clone website |```HTML``` ```CSS``` ```JS```|<a href="https://csb-nbvvnt.netlify.app/"> Click </a>|
 
 
 # 💻 Tech Stack: 
