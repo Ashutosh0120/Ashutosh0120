@@ -30,7 +30,7 @@
 | Vehicle Insurance System | Created this project during HCL internship | ```HTML``` ```CSS``` ```JS``` ```Python```<br>```Django``` ```Sqlite``` ||
 | <a href="https://github.com/Ashutosh0120/Ai-Article-Summarizer"> Open AI Article Summarizer </a>| Created a web app which can summarize <br> articles using Open AI GPT 4 |```HTML``` ```Tailwind Css``` <br> ```JS``` ```React Js```|<a href="https://openaiarticlesummarizer.netlify.app/"> Click </a>|
 | <a href="https://github.com/Ashutosh0120/Realtime-Sign-Language-System"> Realtime Sign Language Detection </a>| Project developed for Realtime <br> Face and Sign Matching |```Tensorflow``` ```Python``` <br> ```OpenCV``` ```LSTM DL Model```||
-| <a href="https://github.com/Ashutosh0120/HostarClone"> Disney+ Hotstar Clone </a>| Created a Disney+ Hotstar clone website |```HTML``` ```CSS``` ```JS```|<a href="https://csb-nbvvnt.netlify.app/"> Click </a>|
+| <a href="https://github.com/Ashutosh0120/HostarClone"> Disney+ Hotstar Clone </a>| Created a Disney+ Hotstar clone website |```HTML``` ```CSS``` ```JS```|<a href="https://hotstarclonedisney.netlify.app/"> Click </a>|
 
 
 # 💻 Tech Stack: 
