@@ -50,4 +50,3 @@
 
 ---
 
-[![Ashutosh0120's GitHub | Stats](https://stats.quine.sh/Ashutosh0120/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Ashutosh0120)
