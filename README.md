@@ -8,9 +8,11 @@
 # 💻 Work Experience:
 |Organization|Position|Skills|Type|Timeline| |
 |-----------|----------|-----------|-----------|-----------|----|
+|DoSelect|Problem Setter Intern|```Debugging Code``` ```Competitive Programming``` ```Data Structures``` ```Problem Solving```| Internship | Nov'23 - Present||
 |HCL Technologies|Python Developer Intern|```HTML``` ```CSS``` ```JS``` ```Python```<br> ```Django``` ```Sqlite``` | Internship | Sept'22 - Dec'22|<a href="https://drive.google.com/file/d/1YXBWgI6eIH9xgzMGP_J9DKnvGp420P-u/view?usp=sharing"> Click </a>|
 |Hacktoberfest'22|Open Source Contributor|```HTML``` ```CSS``` ```JS``` ```Python```| Part-time | Oct'22(1 month)|<a href="https://www.holopin.io/@ashu012002#/"> Click </a>|
-|GSSoC'23|Open Source Contributor|```HTML``` ```CSS``` ```JS``` ```Python``` ```Tensorflow```| Part-time | May'23 - Present|<a href="https://drive.google.com/file/d/1GTeC2qUQLdpddzB4vnHk1LtN9ZLl8flf/view?usp=sharing"> Click </a>|
+|GSSoC'23|Open Source Contributor|```HTML``` ```CSS``` ```JS``` ```Python``` ```Tensorflow```| Part-time | May'23 - July'23|<a href="https://drive.google.com/file/d/1GTeC2qUQLdpddzB4vnHk1LtN9ZLl8flf/view?usp=sharing"> Click </a>|
+
 
 # 📚 Education:
 ||Institution|Score|Duration| 
