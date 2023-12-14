@@ -4,7 +4,7 @@
 # 💫 About Me: 
 <img align="right" alt="Coding" width="300" src="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966"><br> 
 • Currently working as a Problem Setter Intern at DoSelect<br>
-• Ex Python Developer Intern @𝐇𝐂𝐋 𝐓𝐞𝐜𝐡𝐧𝐨𝐥𝐨𝐠𝐢𝐞𝐬<br>• 𝐌𝐞𝐭𝐚 Hackercup'22 : Global Rank 2817<br>• 𝐆𝐨𝐨𝐠𝐥𝐞 Code Jam Farewell Round : Global Rank 1893<br>• 𝐆𝐨𝐨𝐠𝐥𝐞 Kickstart'22 : Global Rank 2473<br>• 𝐂𝐨𝐝𝐞𝐜𝐡𝐞𝐟 : 3⭐| (Max rating: 1718)<br>• 𝐂𝐨𝐝𝐞𝐟𝐨𝐫𝐜𝐞𝐬 : Specialist 💙| (Max rating: 1424) <br>• 𝐋𝐞𝐞𝐭𝐜𝐨𝐝𝐞 : 3⭐| (Max 1870 | Top 5.25%) <br>• 📫 Connect with me: <a href="https://www.linkedin.com/in/ashutosh-kumar-singh-03975a18b/">Ashutosh Kumar Singh</a> <br> • ▶ My Resume: <a href="https://drive.google.com/file/d/1xQdWJB9N5f_Q1FqUqRwHJ3pC67aTWteP/view?usp=sharing/">Click</a> <br>
+• Ex Python Developer Intern @𝐇𝐂𝐋 𝐓𝐞𝐜𝐡𝐧𝐨𝐥𝐨𝐠𝐢𝐞𝐬<br>• 𝐌𝐞𝐭𝐚 Hackercup'22 : Global Rank 2817<br>• 𝐆𝐨𝐨𝐠𝐥𝐞 Code Jam Farewell Round : Global Rank 1893<br>• 𝐆𝐨𝐨𝐠𝐥𝐞 Kickstart'22 : Global Rank 2473<br>• 𝐂𝐨𝐝𝐞𝐜𝐡𝐞𝐟 : 3⭐| (Max rating: 1718)<br>• 𝐂𝐨𝐝𝐞𝐟𝐨𝐫𝐜𝐞𝐬 : Specialist 💙| (Max rating: 1424) <br>• 𝐋𝐞𝐞𝐭𝐜𝐨𝐝𝐞 : 3⭐| (Max 1917 | Top 4.16%) <br>• 📫 Connect with me: <a href="https://www.linkedin.com/in/ashutosh-kumar-singh-03975a18b/">Ashutosh Kumar Singh</a> <br> • ▶ My Resume: <a href="https://drive.google.com/file/d/1xQdWJB9N5f_Q1FqUqRwHJ3pC67aTWteP/view?usp=sharing/">Click</a> <br>
 
 # 💻 Work Experience:
 |Organization|Position|Skills|Type|Timeline| |
