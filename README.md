@@ -2,13 +2,14 @@
 <br>
  
 # 💫 About Me: 
-• Currently working as a Problem Setter Intern at DoSelect<br>
+• Currently working as Associate Engineer at Q2 Software <br>
+• Ex Problem Setter Intern at DoSelect<br>
 • Ex Python Developer Intern @𝐇𝐂𝐋 𝐓𝐞𝐜𝐡𝐧𝐨𝐥𝐨𝐠𝐢𝐞𝐬<br>• 𝐌𝐞𝐭𝐚 Hackercup'22 : Global Rank 2817<br>• 𝐆𝐨𝐨𝐠𝐥𝐞 Code Jam Farewell Round : Global Rank 1893<br>• 𝐆𝐨𝐨𝐠𝐥𝐞 Kickstart'22 : Global Rank 2473<br>• 𝐂𝐨𝐝𝐞𝐜𝐡𝐞𝐟 : 3⭐| (Max rating: 1718)<br>• 𝐂𝐨𝐝𝐞𝐟𝐨𝐫𝐜𝐞𝐬 : Specialist 💙| (Max rating: 1424) <br>• 𝐋𝐞𝐞𝐭𝐜𝐨𝐝𝐞 : 3⭐| (Max 1976 | Top 3.13%) <br>• 📫 Connect with me: <a href="https://www.linkedin.com/in/ashutosh-kumar-singh-03975a18b/">Ashutosh Kumar Singh</a> <br> • ▶ My Resume: <a href="https://drive.google.com/file/d/1OsKEe_2sUhSWdoVVHPqLVE5cwPNSKa_M/view?usp=sharing">Click</a> <br>
 
 # 💻 Work Experience:
 |Organization|Position|Skills|Type|Timeline| |
 |-----------|----------|-----------|-----------|-----------|----|
-|Q2 Software|Associate Engineer|```Python``` ```SQL``` ```GitLab``` ```Bitbucket``` ``` Generative AI ``` | Internship | Nov'23 - Jan'24 ||
+|Q2 Software|Associate Engineer|```Python``` ```SQL``` ```GitLab``` ```Bitbucket``` ``` Generative AI ``` | Full-Time | Aug'24 - Current||
 |DoSelect|Problem Setter Intern|```Debugging Code``` ```Competitive Programming``` ```Data Structures``` ```Problem Solving```| Internship | Nov'23 - Jan'24 ||
 |HCL Technologies|Python Developer Intern|```HTML``` ```CSS``` ```JS``` ```Python```<br> ```Django``` ```Sqlite``` | Internship | Sept'22 - Dec'22|<a href="https://drive.google.com/file/d/1YXBWgI6eIH9xgzMGP_J9DKnvGp420P-u/view?usp=sharing"> Click </a>|
 |Hacktoberfest'22|Open Source Contributor|```HTML``` ```CSS``` ```JS``` ```Python```| Part-time | Oct'22(1 month)|<a href="https://www.holopin.io/@ashu012002#/"> Click </a>|
